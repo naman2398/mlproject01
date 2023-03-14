@@ -5,3 +5,6 @@
 	
 2. Create src folder and build the package.
 
+3. Create logger and exception
+
+4. 
